@@ -1,21 +1,21 @@
 ---
-title: More Features of Matrix
+title: Больше возможностей Matrix
 layout: page-two-col
 nav: false
 parent: guide
 permalink: guide/features/
-description: A guide that details various features of Matrix, the federated chat platform that actually respects you.
+description: Этот гайд расскажет о возможностях Matrix, открытой и безопасной сети для чата.
 order: 1
 ---
 
-## More Features of Matrix
+## Больше возможностей Matrix
 
-Now that you have aced the [basics](..), let's talk about the intricate details of various features of Matrix. The guide assumes that you have done some preliminary discovery of features and that you are here for specifics that may not be too intuitive.
+После того как Вы узнали [базовую информацию](..), давайте узнаем про более сложные подробности о возможностях Matrix. Этот гайд подразумевает, что Вы ознакомлись с функционалом, и что Вы здесь за подробностями, которые могут сразу быть не понятны.
 
-## All about chatting
+## Все про чат
 
 <div class="flash flash-warn">
-  <strong>IMPORTANT!</strong> You cannot change your Matrix user name. Choose it wisely.
+  <strong>ОБРАТИТЕ ВНИМАНИЕ:</strong> Вы не сможете поменять своё имя пользователя (не путать с отображаемым именем), выбирайте с умом.
 </div>
 
 
